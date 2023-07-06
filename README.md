@@ -1,0 +1,2 @@
+# Developing-an-Advanced-Driving-Score-Algorithm-to-Promote-Safer-Driving-Habits-and-Reduce-Costs
+Develop an Advanced Driving Score Algorithm to promote safer driving habits and cost reduction. Our project focuses on developing a sophisticated algorithm that assesses driving behavior, enabling safer practices. By implementing this solution, you can encourage responsible driving, mitigate risks, and achieve significant cost savings.
